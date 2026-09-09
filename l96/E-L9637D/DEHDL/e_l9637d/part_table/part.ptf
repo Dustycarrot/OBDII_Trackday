@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'E_L9637D'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "E-L9637D" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-E-L9637D", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/E-L9637D?qs=lrqjml%252Bjt8d%2FUlnJz0Tlgg%3D%3D", "Monolithic bus driver with ISO 9141 interface", "https://www.st.com/resource/en/datasheet/l9637.pdf", "1.75 mm"
+END_PART
+
+END.
